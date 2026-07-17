@@ -49,4 +49,4 @@ Taller_Interacciones_Web/
 
 ## Enlace del repositorio
 
-https://github.com/usuario/evaluador-academico
+https://github.com/jaliscano-oss/Taller_Interacciones_Web
